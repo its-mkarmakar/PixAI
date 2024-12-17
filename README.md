@@ -22,9 +22,8 @@ With a **responsive user interface** and a scalable architecture, PixAI combines
 2. 🛠️ [Tech Stack](#tech-stack)  
 3. 📊 [Features](#features)  
 4. 🚀 [Quick Start](#quick-start)  
-5. 🤝 [Contributing](#contributing)  
-6. 📜 [License](#license)  
-7. 💬 [Support](#support)  
+5. 🤝 [Contributing](#contributing)   
+6. 💬 [Support](#support)  
 
 ---
 
