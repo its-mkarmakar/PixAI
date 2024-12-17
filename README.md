@@ -2,11 +2,11 @@
 
 ## ⚙ Introduction
 
-Welcome to *PixAI*, an innovative AI-Powered Text-to-Image Generator Application. This advanced Full Stack SaaS platform enables users to turn their creative text prompts into stunning, high-quality images using the power of the *ClipDrop API*.  
+Welcome to **PixAI**, an innovative AI-Powered Text-to-Image Generator Application. This advanced Full Stack SaaS platform enables users to turn their creative text prompts into stunning, high-quality images using the power of the **ClipDrop API**.  
 
-Built on the robust *MERN stack (MongoDB, Express, React, and Node.js), PixAI offers a seamless user experience with features like a **credit-based generation system* and secure payment integration through *Razorpay*.  
+Built on the robust **MERN stack (MongoDB, Express, React, and Node.js)**, PixAI offers a seamless user experience with features like a **credit-based** generation system and secure payment integration through **Razorpay**.  
 
-With a *responsive user interface* and a scalable architecture, PixAI combines modern design with cutting-edge technology to meet the needs of creators, developers, and businesses.
+With a **responsive user interface** and a scalable architecture, **PixAI** combines modern design with cutting-edge technology to meet the needs of creators, developers, and businesses.
 
 ---
 
