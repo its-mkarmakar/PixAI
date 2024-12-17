@@ -1,4 +1,4 @@
-# PixAI - Your Imagination, Made Visible
+# PixAI - Your Imagination, Make Visible.
 
 ## ⚙ Introduction
 
@@ -142,18 +142,12 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 💬 Support
 
 For support or inquiries, please contact:  
-- **Email**: support@pixai.com  
+- **Email**: help@pixai.com  
 - **GitHub Issues**: [Report an Issue](https://github.com/its-mkarmakar/PixAI/issues)
 
 ---
 
-Thank you for using **PixAI**! Your imagination, made visible.
+Thank you for using **PixAI**! Your imagination, make visible.
