@@ -1,12 +1,12 @@
-# PixAI - Your Imagination, Make Visible.
+# PixAI - Your Imagination, Made Visible
 
 ## ⚙ Introduction
 
-Welcome to **PixAI**, an innovative AI-Powered Text-to-Image Generator Application. This advanced Full Stack SaaS platform enables users to turn their creative text prompts into stunning, high-quality images using the power of the **ClipDrop API**.  
+Welcome to **PixAI**, an innovative **AI-Powered Text-to-Image Generator Application**. This advanced **Full Stack SaaS** platform enables users to turn their creative text prompts into stunning, high-quality images using the power of the **ClipDrop API**.  
 
-Built on the robust **MERN stack (MongoDB, Express, React, and Node.js)**, PixAI offers a seamless user experience with features like a **credit-based** generation system and secure payment integration through **Razorpay**.  
+Built on the robust **MERN stack** (MongoDB, Express, React, and Node.js), PixAI offers a seamless user experience with features like a **credit-based generation system** and secure payment integration through **Razorpay**.  
 
-With a **responsive user interface** and a scalable architecture, **PixAI** combines modern design with cutting-edge technology to meet the needs of creators, developers, and businesses.
+With a **responsive user interface** and a scalable architecture, PixAI combines modern design with cutting-edge technology to meet the needs of creators, developers, and businesses.
 
 ---
 
@@ -19,19 +19,22 @@ With a **responsive user interface** and a scalable architecture, **PixAI** comb
 ## 📋 Table of Contents
 
 1. ⚙ [Introduction](#introduction)  
-2. 🛠 [Tech Stack](#tech-stack)  
+2. 🛠️ [Tech Stack](#tech-stack)  
 3. 📊 [Features](#features)  
 4. 🚀 [Quick Start](#quick-start)  
 5. 🤝 [Contributing](#contributing)  
-6. 💬 [Support](#support)  
+6. 📜 [License](#license)  
+7. 💬 [Support](#support)  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 PixAI is powered by the following technologies:  
 
 <div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -58,28 +61,28 @@ PixAI is powered by the following technologies:
 
 Set up PixAI locally by following these steps:
 
-### *Prerequisites*  
+### **Prerequisites**  
 Ensure the following are installed on your system:  
 - [Git](https://git-scm.com/)  
 - [Node.js](https://nodejs.org/)  
 
-### *Clone the Repository*  
+### **Clone the Repository**  
 Navigate to your desired directory and run:  
-bash
+```bash
 git clone https://github.com/its-mkarmakar/PixAI.git
-
+```
 
 ---
 
-### *Server Setup*  
+### **Server Setup**  
 
 1. Navigate to the server directory:  
-   bash
+   ```bash
    cd server && npm install
-   
+   ```
 
-2. Create a .env file and add the following:  
-   env
+2. Create a `.env` file and add the following:  
+   ```env
    FRONTEND_URL=http://localhost:5173
    EMAIL=YourGmailId
    EMAIL_APP_PASSWORD=YourGmailAppPassword
@@ -89,32 +92,32 @@ git clone https://github.com/its-mkarmakar/PixAI.git
    CURRENCY=YourCurrency
    RAZORPAY_KEY_ID=YourRazorpayKeyId
    RAZORPAY_KEY_SECRET=YourRazorpayKeySecret
-   
+   ```
 
 3. Start the server:  
-   bash
+   ```bash
    npm run server
-   
+   ```
 
 ---
 
-### *Client Setup*  
+### **Client Setup**  
 
 1. Navigate to the client directory:  
-   bash
+   ```bash
    cd client && npm install
-   
+   ```
 
-2. Create a .env file and add the following:  
-   env
+2. Create a `.env` file and add the following:  
+   ```env
    VITE_BACKEND_URL=http://localhost:4000
    RAZORPAY_KEY_ID=YourRazorpayKeyId
-   
+   ```
 
 3. Start the client:  
-   bash
+   ```bash
    npm run dev
-   
+   ```
 
 ---
 
@@ -124,27 +127,33 @@ Contributions are welcome! To contribute:
 
 1. Fork the repository.
 2. Create a new branch:  
-   bash
+   ```bash
    git checkout -b feature/YourFeatureName
-   
+   ```
 3. Make your changes and commit them:  
-   bash
+   ```bash
    git commit -m "Add YourFeatureName"
-   
+   ```
 4. Push the branch:  
-   bash
+   ```bash
    git push origin feature/YourFeatureName
-   
+   ```
 5. Open a pull request.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
 ## 💬 Support
 
 For support or inquiries, please contact:  
-- *Email*: pixai.help@gmail.com
-- *GitHub Issues*: [Report an Issue](https://github.com/its-mkarmakar/PixAI/issues)
+- **Email**: support@pixai.com  
+- **GitHub Issues**: [Report an Issue](https://github.com/its-mkarmakar/PixAI/issues)
 
 ---
 
-Thank you for using *PixAI*! Your imagination, make visible.
+Thank you for using **PixAI**! Your imagination, made visible.
