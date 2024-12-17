@@ -42,15 +42,15 @@ PixAI is powered by the following technologies:
 
 ## 📊 Features
 
-- *Modern User Interface*: A sleek, intuitive design ensuring smooth navigation across all devices.  
-- *AI-Powered Text-to-Image Generation*: Generate high-quality images from text prompts using the ClipDrop API.  
-- *Credit-Based System*: Start with free credits and purchase more via the Razorpay payment gateway.  
-- *Secure User Authentication*: Account creation, login, and recovery options with robust data protection.  
-- *Scalable Database Integration*: User profiles, credits, and transactions securely stored in MongoDB.  
-- *Responsive Design*: Optimized for desktops, tablets, and mobile devices.  
-- *Purchase Management*: Track credits and transaction history through a user-friendly dashboard.  
-- *Efficient API Integration*: Reliable backend communication for fast and secure processing.  
-- *Modular Architecture*: Scalable and maintainable codebase for long-term growth.  
+- **Modern User Interface**: A sleek, intuitive design ensuring smooth navigation across all devices.  
+- **AI-Powered Text-to-Image Generation**: Generate high-quality images from text prompts using the ClipDrop API.  
+- **Credit-Based System**: Start with free credits and purchase more via the Razorpay payment gateway.  
+- **Secure User Authentication**: Account creation, login, and recovery options with robust data protection.  
+- **Scalable Database Integration**: User profiles, credits, and transactions securely stored in MongoDB.  
+- **Responsive Design**: Optimized for desktops, tablets, and mobile devices.  
+- **Purchase Management**: Track credits and transaction history through a user-friendly dashboard.  
+- **Efficient API Integration**: Reliable backend communication for fast and secure processing.  
+- **Modular Architecture**: Scalable and maintainable codebase for long-term growth.  
 
 ---
 
